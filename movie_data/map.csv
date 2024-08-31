@@ -1,0 +1,437 @@
+,title,imdbId,tmdbId
+0,Toy Story (1995),114709,862.0
+1,Jumanji (1995),113497,8844.0
+2,Grumpier Old Men (1995),113228,15602.0
+3,Heat (1995),113277,949.0
+4,Sabrina (1995),114319,11860.0
+5,GoldenEye (1995),113189,710.0
+6,"American President, The (1995)",112346,9087.0
+7,Casino (1995),112641,524.0
+8,Sense and Sensibility (1995),114388,4584.0
+9,Ace Ventura: When Nature Calls (1995),112281,9273.0
+10,Get Shorty (1995),113161,8012.0
+11,Leaving Las Vegas (1995),113627,451.0
+12,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),114746,63.0
+13,Babe (1995),112431,9598.0
+14,Dead Man Walking (1995),112818,687.0
+15,Clueless (1995),112697,9603.0
+16,Seven (a.k.a. Se7en) (1995),114369,807.0
+17,Pocahontas (1995),114148,10530.0
+18,"Usual Suspects, The (1995)",114814,629.0
+19,Mr. Holland's Opus (1995),113862,2054.0
+20,From Dusk Till Dawn (1996),116367,755.0
+21,Broken Arrow (1996),115759,9208.0
+22,Happy Gilmore (1996),116483,9614.0
+23,Braveheart (1995),112573,197.0
+24,Taxi Driver (1976),75314,103.0
+25,"Birdcage, The (1996)",115685,11000.0
+26,Bad Boys (1995),112442,9737.0
+27,Apollo 13 (1995),112384,568.0
+28,Batman Forever (1995),112462,414.0
+29,Casper (1995),112642,8839.0
+30,Congo (1995),112715,10329.0
+31,Crimson Tide (1995),112740,8963.0
+32,Desperado (1995),112851,8068.0
+33,Die Hard: With a Vengeance (1995),112864,1572.0
+34,First Knight (1995),113071,6520.0
+35,Johnny Mnemonic (1995),113481,9886.0
+36,Judge Dredd (1995),113492,9482.0
+37,"Net, The (1995)",113957,1642.0
+38,Waterworld (1995),114898,9804.0
+39,Clerks (1994),109445,2292.0
+40,Disclosure (1994),109635,8984.0
+41,Dumb & Dumber (Dumb and Dumber) (1994),109686,8467.0
+42,Ed Wood (1994),109707,522.0
+43,Interview with the Vampire: The Vampire Chronicles (1994),110148,628.0
+44,Star Wars: Episode IV - A New Hope (1977),76759,11.0
+45,Legends of the Fall (1994),110322,4476.0
+46,Natural Born Killers (1994),110632,241.0
+47,Outbreak (1995),114069,6950.0
+48,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),110413,101.0
+49,Pulp Fiction (1994),110912,680.0
+50,Quiz Show (1994),110932,11450.0
+51,Stargate (1994),111282,2164.0
+52,"Santa Clause, The (1994)",111070,11395.0
+53,"Shawshank Redemption, The (1994)",111161,278.0
+54,Star Trek: Generations (1994),111280,193.0
+55,What's Eating Gilbert Grape (1993),108550,1587.0
+56,While You Were Sleeping (1995),114924,2064.0
+57,Ace Ventura: Pet Detective (1994),109040,3049.0
+58,Clear and Present Danger (1994),109444,9331.0
+59,"Client, The (1994)",109446,10731.0
+60,"Crow, The (1994)",109506,9495.0
+61,Forrest Gump (1994),109830,13.0
+62,Four Weddings and a Funeral (1994),109831,712.0
+63,"Lion King, The (1994)",110357,8587.0
+64,"Mask, The (1994)",110475,854.0
+65,Maverick (1994),110478,9359.0
+66,Naked Gun 33 1/3: The Final Insult (1994),110622,36593.0
+67,Speed (1994),111257,1637.0
+68,True Lies (1994),111503,36955.0
+69,Addams Family Values (1993),106220,2758.0
+70,Beverly Hills Cop III (1994),109254,306.0
+71,City Slickers II: The Legend of Curly's Gold (1994),109439,11310.0
+72,Cliffhanger (1993),106582,9350.0
+73,Coneheads (1993),106598,9612.0
+74,Dave (1993),106673,11566.0
+75,Demolition Man (1993),106697,9739.0
+76,"Firm, The (1993)",106918,37233.0
+77,"Fugitive, The (1993)",106977,5503.0
+78,Hot Shots! Part Deux (1993),107144,9255.0
+79,In the Line of Fire (1993),107206,9386.0
+80,Jurassic Park (1993),107290,329.0
+81,Last Action Hero (1993),107362,9593.0
+82,Mrs. Doubtfire (1993),107614,788.0
+83,Philadelphia (1993),107818,9800.0
+84,"Piano, The (1993)",107822,713.0
+85,Robin Hood: Men in Tights (1993),107977,8005.0
+86,Schindler's List (1993),108052,424.0
+87,Sleepless in Seattle (1993),108160,858.0
+88,Blade Runner (1982),83658,78.0
+89,"Nightmare Before Christmas, The (1993)",107688,9479.0
+90,"Three Musketeers, The (1993)",108333,10057.0
+91,Tombstone (1993),108358,11969.0
+92,True Romance (1993),108399,319.0
+93,Home Alone (1990),99785,771.0
+94,Ghost (1990),99653,251.0
+95,Aladdin (1992),103639,812.0
+96,Terminator 2: Judgment Day (1991),103064,280.0
+97,Dances with Wolves (1990),99348,581.0
+98,Batman (1989),96895,268.0
+99,"Silence of the Lambs, The (1991)",102926,274.0
+100,Snow White and the Seven Dwarfs (1937),29583,408.0
+101,Beauty and the Beast (1991),101414,10020.0
+102,Pinocchio (1940),32910,10895.0
+103,Pretty Woman (1990),100405,114.0
+104,Fargo (1996),116282,275.0
+105,Mission: Impossible (1996),117060,954.0
+106,Dragonheart (1996),116136,8840.0
+107,Space Jam (1996),117705,2300.0
+108,"Truth About Cats & Dogs, The (1996)",117979,8866.0
+109,"Rock, The (1996)",117500,9802.0
+110,Twister (1996),117998,664.0
+111,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),57012,935.0
+112,Trainspotting (1996),117951,627.0
+113,Independence Day (a.k.a. ID4) (1996),116629,602.0
+114,"Cable Guy, The (1996)",115798,9894.0
+115,Eraser (1996),116213,9268.0
+116,"Nutty Professor, The (1996)",117218,9327.0
+117,"Godfather, The (1972)",68646,238.0
+118,Vertigo (1958),52357,426.0
+119,Rear Window (1954),47396,567.0
+120,North by Northwest (1959),53125,213.0
+121,Casablanca (1942),34583,289.0
+122,"Wizard of Oz, The (1939)",32138,630.0
+123,Citizen Kane (1941),33467,15.0
+124,2001: A Space Odyssey (1968),62622,62.0
+125,It's a Wonderful Life (1946),38650,1585.0
+126,Mary Poppins (1964),58331,433.0
+127,"Sound of Music, The (1965)",59742,15121.0
+128,Die Hard (1988),95016,562.0
+129,Willy Wonka & the Chocolate Factory (1971),67992,252.0
+130,"Fish Called Wanda, A (1988)",95159,623.0
+131,Monty Python's Life of Brian (1979),79470,583.0
+132,Reservoir Dogs (1992),105236,500.0
+133,Platoon (1986),91763,792.0
+134,E.T. the Extra-Terrestrial (1982),83866,601.0
+135,Top Gun (1986),92099,744.0
+136,"Abyss, The (1989)",96754,2756.0
+137,Monty Python and the Holy Grail (1975),71853,762.0
+138,Wallace & Gromit: The Wrong Trousers (1993),108598,531.0
+139,One Flew Over the Cuckoo's Nest (1975),73486,510.0
+140,Star Wars: Episode V - The Empire Strikes Back (1980),80684,1891.0
+141,"Princess Bride, The (1987)",93779,2493.0
+142,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),82971,85.0
+143,Brazil (1985),88846,68.0
+144,Aliens (1986),90605,679.0
+145,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",60196,429.0
+146,12 Angry Men (1957),50083,389.0
+147,"Clockwork Orange, A (1971)",66921,185.0
+148,To Kill a Mockingbird (1962),56592,595.0
+149,Apocalypse Now (1979),78788,28.0
+150,Star Wars: Episode VI - Return of the Jedi (1983),86190,1892.0
+151,Goodfellas (1990),99685,769.0
+152,Alien (1979),78748,348.0
+153,Army of Darkness (1993),106308,766.0
+154,Psycho (1960),54215,539.0
+155,"Blues Brothers, The (1980)",80455,525.0
+156,"Godfather: Part II, The (1974)",71562,240.0
+157,Full Metal Jacket (1987),93058,600.0
+158,Amadeus (1984),86879,279.0
+159,Annie Hall (1977),75686,703.0
+160,"Sting, The (1973)",70735,9277.0
+161,"Terminator, The (1984)",88247,218.0
+162,Dead Poets Society (1989),97165,207.0
+163,"Graduate, The (1967)",61722,37247.0
+164,Chinatown (1974),71315,829.0
+165,"Shining, The (1980)",81505,694.0
+166,Stand by Me (1986),92005,235.0
+167,Groundhog Day (1993),107048,137.0
+168,Back to the Future (1985),88763,105.0
+169,Cool Hand Luke (1967),61512,903.0
+170,Young Frankenstein (1974),72431,3034.0
+171,Fantasia (1940),32455,756.0
+172,This Is Spinal Tap (1984),88258,11031.0
+173,Indiana Jones and the Last Crusade (1989),97576,89.0
+174,Field of Dreams (1989),97351,2323.0
+175,Butch Cassidy and the Sundance Kid (1969),64115,642.0
+176,When Harry Met Sally... (1989),98635,639.0
+177,Star Trek: First Contact (1996),117731,199.0
+178,Die Hard 2 (1990),99423,1573.0
+179,Star Trek II: The Wrath of Khan (1982),84726,154.0
+180,Batman Returns (1992),103776,364.0
+181,Grease (1978),77631,621.0
+182,Jaws (1975),73195,578.0
+183,Mars Attacks! (1996),116996,75.0
+184,Jerry Maguire (1996),116695,9390.0
+185,Raising Arizona (1987),93822,378.0
+186,Scream (1996),117571,4232.0
+187,Donnie Brasco (1997),119008,9366.0
+188,Liar Liar (1997),119528,1624.0
+189,Grosse Pointe Blank (1997),119229,9434.0
+190,Austin Powers: International Man of Mystery (1997),118655,816.0
+191,"Fifth Element, The (1997)",119116,18.0
+192,"Lost World: Jurassic Park, The (1997)",119567,330.0
+193,Con Air (1997),118880,1701.0
+194,Face/Off (1997),119094,754.0
+195,Men in Black (a.k.a. MIB) (1997),119654,607.0
+196,Contact (1997),118884,686.0
+197,Air Force One (1997),118571,9772.0
+198,"Hunt for Red October, The (1990)",99810,1669.0
+199,L.A. Confidential (1997),119488,2118.0
+200,"Game, The (1997)",119174,2649.0
+201,Chasing Amy (1997),118842,2255.0
+202,"Full Monty, The (1997)",119164,9427.0
+203,The Devil's Advocate (1997),118971,1813.0
+204,Gattaca (1997),119177,782.0
+205,Starship Troopers (1997),120201,563.0
+206,"Truman Show, The (1998)",120382,37165.0
+207,Good Will Hunting (1997),119217,489.0
+208,Titanic (1997),120338,597.0
+209,"Big Lebowski, The (1998)",118715,115.0
+210,"Wedding Singer, The (1998)",120888,11003.0
+211,As Good as It Gets (1997),119822,2898.0
+212,Armageddon (1998),120591,95.0
+213,There's Something About Mary (1998),129387,544.0
+214,Rocky (1976),75148,1366.0
+215,Rain Man (1988),95953,380.0
+216,"Breakfast Club, The (1985)",88847,2108.0
+217,"Exorcist, The (1973)",70047,9552.0
+218,Lethal Weapon (1987),93409,941.0
+219,"Goonies, The (1985)",89218,9340.0
+220,"Mask of Zorro, The (1998)",120746,9342.0
+221,Back to the Future Part II (1989),96874,165.0
+222,Back to the Future Part III (1990),99088,196.0
+223,Saving Private Ryan (1998),120815,857.0
+224,"Honey, I Shrunk the Kids (1989)",97523,9354.0
+225,"Jungle Book, The (1967)",61852,9325.0
+226,Lady and the Tramp (1955),48280,10340.0
+227,"Little Mermaid, The (1989)",97757,10144.0
+228,Splash (1984),88161,2619.0
+229,Indiana Jones and the Temple of Doom (1984),87469,87.0
+230,Blade (1998),120611,36647.0
+231,Beetlejuice (1988),94721,4011.0
+232,"Untouchables, The (1987)",94226,117.0
+233,"Few Good Men, A (1992)",104257,881.0
+234,Edward Scissorhands (1990),99487,162.0
+235,My Cousin Vinny (1992),104952,10377.0
+236,Pleasantville (1998),120789,2657.0
+237,Life Is Beautiful (La Vita è bella) (1997),118799,637.0
+238,American History X (1998),120586,73.0
+239,Enemy of the State (1998),120660,9798.0
+240,"Bug's Life, A (1998)",120623,9487.0
+241,Rushmore (1998),128445,11545.0
+242,Shakespeare in Love (1998),138097,1934.0
+243,Romancing the Stone (1984),88011,9326.0
+244,Crocodile Dundee (1986),90555,9671.0
+245,Office Space (1999),151804,1542.0
+246,Planet of the Apes (1968),63442,871.0
+247,"Lock, Stock & Two Smoking Barrels (1998)",120735,100.0
+248,"Matrix, The (1999)",133093,603.0
+249,10 Things I Hate About You (1999),147800,4951.0
+250,Election (1999),126886,9451.0
+251,"Mummy, The (1999)",120616,564.0
+252,Star Wars: Episode I - The Phantom Menace (1999),120915,1893.0
+253,Superman (1978),78346,1924.0
+254,"Rocky Horror Picture Show, The (1975)",73629,36685.0
+255,Notting Hill (1999),125439,509.0
+256,Austin Powers: The Spy Who Shagged Me (1999),145660,817.0
+257,Run Lola Run (Lola rennt) (1998),130827,104.0
+258,Arachnophobia (1990),99052,6488.0
+259,"South Park: Bigger, Longer and Uncut (1999)",158983,9473.0
+260,Wild Wild West (1999),120891,8487.0
+261,American Pie (1999),163651,2105.0
+262,"Blair Witch Project, The (1999)",185937,2667.0
+263,Eyes Wide Shut (1999),120663,345.0
+264,Ghostbusters (a.k.a. Ghost Busters) (1984),87332,620.0
+265,"Sixth Sense, The (1999)",167404,745.0
+266,Airplane! (1980),80339,813.0
+267,Big (1988),94737,2280.0
+268,"Christmas Story, A (1983)",85334,850.0
+269,American Beauty (1999),169547,14.0
+270,Total Recall (1990),100802,861.0
+271,Ferris Bueller's Day Off (1986),91042,9377.0
+272,Goldfinger (1964),58150,658.0
+273,Fight Club (1999),137523,550.0
+274,RoboCop (1987),93870,5548.0
+275,Who Framed Roger Rabbit? (1988),96438,856.0
+276,Being John Malkovich (1999),120601,492.0
+277,Spaceballs (1987),94012,957.0
+278,Dogma (1999),120655,1832.0
+279,Sleepy Hollow (1999),162661,2668.0
+280,Toy Story 2 (1999),120363,863.0
+281,"Green Mile, The (1999)",120689,497.0
+282,Magnolia (1999),175880,334.0
+283,Galaxy Quest (1999),177789,926.0
+284,Wayne's World (1992),105793,8872.0
+285,Erin Brockovich (2000),195685,462.0
+286,Animal House (1978),77975,8469.0
+287,Close Encounters of the Third Kind (1977),75860,840.0
+288,High Fidelity (2000),146882,243.0
+289,Hook (1991),102057,879.0
+290,Predator (1987),93773,106.0
+291,American Psycho (2000),144084,1359.0
+292,Caddyshack (1980),80487,11977.0
+293,Gladiator (2000),172495,98.0
+294,Mission: Impossible II (2000),120755,955.0
+295,Blazing Saddles (1974),71230,11072.0
+296,Gone in 60 Seconds (2000),187078,9679.0
+297,Chicken Run (2000),120630,7443.0
+298,"Patriot, The (2000)",187393,2024.0
+299,X-Men (2000),120903,36657.0
+300,Almost Famous (2000),181875,786.0
+301,Best in Show (2000),218839,13785.0
+302,Meet the Parents (2000),212338,1597.0
+303,Requiem for a Dream (2000),180093,641.0
+304,Charlie's Angels (2000),160127,4327.0
+305,Unbreakable (2000),217869,9741.0
+306,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",190332,146.0
+307,Snatch (2000),208092,107.0
+308,What Women Want (2000),207201,3981.0
+309,Cast Away (2000),162222,8358.0
+310,Miss Congeniality (2000),212346,1493.0
+311,"O Brother, Where Art Thou? (2000)",190590,134.0
+312,Traffic (2000),181865,1900.0
+313,Memento (2000),209144,77.0
+314,Blow (2001),221027,4133.0
+315,Bridget Jones's Diary (2001),243155,634.0
+316,Scarface (1983),86250,111.0
+317,Shrek (2001),126029,808.0
+318,Moulin Rouge (2001),203009,824.0
+319,A.I. Artificial Intelligence (2001),212720,644.0
+320,Legally Blonde (2001),250494,8835.0
+321,"Others, The (2001)",230600,1933.0
+322,Training Day (2001),139654,2034.0
+323,Zoolander (2001),196229,9398.0
+324,Mulholland Drive (2001),166924,1018.0
+325,Donnie Darko (2001),246578,141.0
+326,"Monsters, Inc. (2001)",198781,585.0
+327,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),241527,671.0
+328,Ocean's Eleven (2001),240772,161.0
+329,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",211915,194.0
+330,"Royal Tenenbaums, The (2001)",265666,9428.0
+331,"Lord of the Rings: The Fellowship of the Ring, The (2001)",120737,120.0
+332,"Beautiful Mind, A (2001)",268978,453.0
+333,Ice Age (2002),268380,425.0
+334,My Big Fat Greek Wedding (2002),259446,8346.0
+335,Spider-Man (2002),145487,557.0
+336,Star Wars: Episode II - Attack of the Clones (2002),121765,1894.0
+337,"Bourne Identity, The (2002)",258463,2501.0
+338,Minority Report (2002),181689,180.0
+339,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),120912,608.0
+340,Austin Powers in Goldmember (2002),295178,818.0
+341,Signs (2002),286106,2675.0
+342,Spirited Away (Sen to Chihiro no kamikakushi) (2001),245429,129.0
+343,Bowling for Columbine (2002),310793,1430.0
+344,Harry Potter and the Chamber of Secrets (2002),295297,672.0
+345,"Lord of the Rings: The Two Towers, The (2002)",167261,121.0
+346,Gangs of New York (2002),217505,3131.0
+347,Catch Me If You Can (2002),264464,640.0
+348,City of God (Cidade de Deus) (2002),317248,598.0
+349,X2: X-Men United (2003),290334,36658.0
+350,"Matrix Reloaded, The (2003)",234215,604.0
+351,Bruce Almighty (2003),315327,310.0
+352,Finding Nemo (2003),266543,12.0
+353,"Italian Job, The (2003)",317740,9654.0
+354,28 Days Later (2002),289043,170.0
+355,Pirates of the Caribbean: The Curse of the Black Pearl (2003),325980,22.0
+356,Lost in Translation (2003),335266,153.0
+357,School of Rock (2003),332379,1584.0
+358,Mystic River (2003),327056,322.0
+359,Kill Bill: Vol. 1 (2003),266697,24.0
+360,"Matrix Revolutions, The (2003)",242653,605.0
+361,Love Actually (2003),314331,508.0
+362,"Last Samurai, The (2003)",325710,616.0
+363,Big Fish (2003),319061,587.0
+364,"Lord of the Rings: The Return of the King, The (2003)",167260,122.0
+365,Eternal Sunshine of the Spotless Mind (2004),338013,38.0
+366,Kill Bill: Vol. 2 (2004),378194,393.0
+367,Shrek 2 (2004),298148,809.0
+368,Harry Potter and the Prisoner of Azkaban (2004),304141,673.0
+369,Spider-Man 2 (2004),316654,558.0
+370,Anchorman: The Legend of Ron Burgundy (2004),357413,8699.0
+371,"I, Robot (2004)",343818,2048.0
+372,"Bourne Supremacy, The (2004)",372183,2502.0
+373,Shaun of the Dead (2004),365748,747.0
+374,"Incredibles, The (2004)",317705,9806.0
+375,Million Dollar Baby (2004),405159,70.0
+376,Charlie and the Chocolate Factory (2005),367594,118.0
+377,Sin City (2005),401792,187.0
+378,Star Wars: Episode III - Revenge of the Sith (2005),121766,1895.0
+379,Mr. & Mrs. Smith (2005),356910,787.0
+380,Batman Begins (2005),372784,272.0
+381,Wedding Crashers (2005),396269,9522.0
+382,"40-Year-Old Virgin, The (2005)",405422,6957.0
+383,Harry Potter and the Goblet of Fire (2005),330373,674.0
+384,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",363771,411.0
+385,V for Vendetta (2006),434409,752.0
+386,X-Men: The Last Stand (2006),376994,36668.0
+387,Pirates of the Caribbean: Dead Man's Chest (2006),383574,58.0
+388,Little Miss Sunshine (2006),449059,773.0
+389,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),443453,496.0
+390,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",457430,1417.0
+391,"Departed, The (2006)",407887,1422.0
+392,Children of Men (2006),206634,9693.0
+393,"Prestige, The (2006)",482571,1124.0
+394,Casino Royale (2006),381061,36557.0
+395,Blood Diamond (2006),450259,1372.0
+396,Ratatouille (2007),382932,2062.0
+397,Hot Fuzz (2007),425112,4638.0
+398,300 (2007),416449,1271.0
+399,Knocked Up (2007),478311,4964.0
+400,Pirates of the Caribbean: At World's End (2007),449088,285.0
+401,Harry Potter and the Order of the Phoenix (2007),373889,675.0
+402,"Bourne Ultimatum, The (2007)",440963,2503.0
+403,Superbad (2007),829482,8363.0
+404,No Country for Old Men (2007),477348,6977.0
+405,I Am Legend (2007),480249,6479.0
+406,Juno (2007),467406,7326.0
+407,"Dark Knight, The (2008)",468569,155.0
+408,Iron Man (2008),371746,1726.0
+409,Kung Fu Panda (2008),441773,9502.0
+410,WALL·E (2008),910970,10681.0
+411,Slumdog Millionaire (2008),1010048,12405.0
+412,Inglourious Basterds (2009),361748,16869.0
+413,Star Trek (2009),796366,13475.0
+414,Up (2009),1049413,14160.0
+415,"Hangover, The (2009)",1119646,18785.0
+416,Harry Potter and the Half-Blood Prince (2009),417741,767.0
+417,District 9 (2009),1136608,17654.0
+418,Zombieland (2009),1156398,19908.0
+419,Avatar (2009),499549,19995.0
+420,Sherlock Holmes (2009),988045,10528.0
+421,Shutter Island (2010),1130884,11324.0
+422,How to Train Your Dragon (2010),892769,10191.0
+423,Toy Story 3 (2010),435761,10193.0
+424,Inception (2010),1375666,27205.0
+425,"Social Network, The (2010)",1285016,37799.0
+426,"King's Speech, The (2010)",1504320,45269.0
+427,"Avengers, The (2012)",848228,24428.0
+428,The Hunger Games (2012),1392170,70160.0
+429,"Dark Knight Rises, The (2012)",1345836,49026.0
+430,Django Unchained (2012),1853728,68718.0
+431,"Wolf of Wall Street, The (2013)",993846,106646.0
+432,"Grand Budapest Hotel, The (2014)",2278388,120467.0
+433,Interstellar (2014),816692,157336.0
+434,Guardians of the Galaxy (2014),2015381,118340.0
+435,Deadpool (2016),1431045,293660.0
